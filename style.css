@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Montserrat&family=Nunito:wght@700&display=swap');
+
+body{
+    margin: 0;
+}
+#author{
+    padding: 0px 30px 30px 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: black;
+
+    
+}
+#quote{
+    padding: 30px 30px 10px 30px;
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    color: black;
+}
+.bg{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    opacity: 0.7;
+
+}
